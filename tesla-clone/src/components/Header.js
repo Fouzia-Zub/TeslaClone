@@ -114,7 +114,7 @@ const BurgerNav=styled.div`
     flex-direction: column;
     text-align: start;
     
-    transition: transform 2s ease-in-ease-out;
+    transition: transform 0.2s ease-in-out;
     li{
       padding: 15px 0;
       border-bottom: 1px solid rgba(0,0,0, .2);
